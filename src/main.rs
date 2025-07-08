@@ -1,5 +1,7 @@
 mod api;
 mod routes;
+mod services;
+mod models;
 
 use actix_web::{App, HttpServer};
 
